@@ -1,4 +1,4 @@
-# My 3D Power Monitor Project
+# 3D Power Monitor Project
 
 This is a 3D Smart Power Monitor design I created using **Onshape**.  
 It was completed as part of a university module assignment.
