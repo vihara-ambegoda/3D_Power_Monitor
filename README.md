@@ -12,18 +12,23 @@ This was completed as a part of my university module assignment.
 ## 📸 Images
 
 **3D View**  
-![3D View](3d-view.jpg)
-
-**Front View**  
-![Front View](front-view.jpg)
-
-**Side View**  
-![Side View](side-view.jpg)
+![3D View](3d-view.png)
 
 **Top View**  
-![Top View](top-view.jpg)
+![Top View](top-view.png)
+
+**Side View**  
+![Side View](side-view.png)
+
+**Bottom View**  
+![Bottom View](bottom-view.png)
 
 ---
 
 ## 🛠 Tools & Software Used
-- Software Name - Onshape
+- **CAD Software:** Onshape
+
+---
+
+## 📄 License
+This project is shared for educational purposes. Please give credit if you use it.
