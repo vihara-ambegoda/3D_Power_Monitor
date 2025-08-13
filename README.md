@@ -1,11 +1,7 @@
-# 3D_Power_Monitor
-A 3D Smart Power Monitor
+# My 3D Power Monitor Project
 
-
-# 🚀 My 3D Power Monitor Project
-
-This is a 3D design of a Smart Power Monitor I created using **Onshape**.  
-This was completed as a part of my university module assignment.
+This is a 3D Smart Power Monitor design I created using **Onshape**.  
+It was completed as part of a university module assignment.
 
 ---
 
